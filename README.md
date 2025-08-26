@@ -1,2 +1,7 @@
 # TI-LinkNow-8
 EEG-colletcion-HighFrequency-LinkNow-Products
+
+//////////////////////////////////////////////////////////////////////////////
+2025 -08 - 26  
+
+增加sscom  串口调试程序 
